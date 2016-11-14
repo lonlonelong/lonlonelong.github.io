@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.lonlone.xyz/about/index.html</loc>
+    
+    <lastmod>2016-11-11T10:23:42.446Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.lonlone.xyz/technology/helloworld/</loc>
     
     <lastmod>2016-11-11T06:53:23.696Z</lastmod>
@@ -19,6 +26,13 @@
     <loc>http://www.lonlone.xyz/literary/gonewithwind/</loc>
     
     <lastmod>2016-11-07T10:50:15.890Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.lonlone.xyz/works/index.html</loc>
+    
+    <lastmod>2016-10-28T11:16:56.009Z</lastmod>
     
   </url>
   
@@ -89,6 +103,20 @@
     <loc>http://www.lonlone.xyz/music/healtheworld/</loc>
     
     <lastmod>2016-10-21T08:32:54.161Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.lonlone.xyz/categories/index.html</loc>
+    
+    <lastmod>2016-10-21T03:19:28.307Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.lonlone.xyz/tags/index.html</loc>
+    
+    <lastmod>2016-10-18T08:49:40.903Z</lastmod>
     
   </url>
   
