@@ -654,9 +654,9 @@
       <category term="language" scheme="http://kangbazi.top/categories/language/"/>
     
     
-      <category term="吴语" scheme="http://kangbazi.top/tags/%E5%90%B4%E8%AF%AD/"/>
-    
       <category term="上海话" scheme="http://kangbazi.top/tags/%E4%B8%8A%E6%B5%B7%E8%AF%9D/"/>
+    
+      <category term="吴语" scheme="http://kangbazi.top/tags/%E5%90%B4%E8%AF%AD/"/>
     
   </entry>
   
@@ -733,13 +733,14 @@
     <link href="http://kangbazi.top/school/schoollightning/"/>
     <id>http://kangbazi.top/school/schoollightning/</id>
     <published>2016-11-01T09:15:22.000Z</published>
-    <updated>2016-11-21T01:47:48.427Z</updated>
+    <updated>2016-11-21T02:09:28.165Z</updated>
     
     <content type="html"><![CDATA[<h1 id="离奇的闪电"><a href="#离奇的闪电" class="headerlink" title="离奇的闪电"></a>离奇的闪电</h1><ul>
 <li>是大物的迷茫还是高数的沦丧？</li>
 <li>上海某高校放假太晚遭雷劈</li>
 </ul>
 <iframe src="http://of8ab6qqu.bkt.clouddn.com/videos/schoollightning.mp4" width="100%" height="400" frameborder="0" allowfullscreen></iframe>
+<a id="more"></a>
 ]]></content>
     
     <summary type="html">
@@ -748,7 +749,7 @@
 &lt;li&gt;是大物的迷茫还是高数的沦丧？&lt;/li&gt;
 &lt;li&gt;上海某高校放假太晚遭雷劈&lt;/li&gt;
 &lt;/ul&gt;
-&lt;ifr
+&lt;iframe src=&quot;http://of8ab6qqu.bkt.clouddn.com/videos/schoollightning.mp4&quot; width=&quot;100%&quot; height=&quot;400&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
     
     </summary>
     
