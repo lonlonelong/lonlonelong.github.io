@@ -5,7 +5,7 @@
     
     <entry>
       <title><![CDATA[Angular2]]></title>
-      <url>http://www.lonlone.xyz/technology/angular2/</url>
+      <url>http://kangbazi.top/technology/angular2/</url>
       <content type="html"><![CDATA[<ul>
 <li>Angular2<h2 id="环境准备："><a href="#环境准备：" class="headerlink" title="环境准备："></a>环境准备：</h2>安装 Node.js and npm<br>Prerequisite: Install Node.js and npm<br>如果你的机器上还没有 Node.js 和 npm ， 安装它们 。 我们的例子需要 node v5.x.x 或更高版本以及 npm 3.x.x 或更高版本。 要检查你正在使用的版本，请在终端窗口中运行 node -v 和 npm -v 命令。<a id="more"></a>
 <h2 id="创建并配置本项目"><a href="#创建并配置本项目" class="headerlink" title="创建并配置本项目"></a>创建并配置本项目</h2>创建项目目录<figure class="highlight dos"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"><span class="built_in">mkdir</span> angular-quickstart</div><div class="line"><span class="built_in">cd</span>    angular-quickstart</div></pre></td></tr></table></figure>
@@ -55,7 +55,7 @@
     
     <entry>
       <title><![CDATA[吴语学习宝典]]></title>
-      <url>http://www.lonlone.xyz/language/wuyu/</url>
+      <url>http://kangbazi.top/language/wuyu/</url>
       <content type="html"><![CDATA[<h2 id="声母"><a href="#声母" class="headerlink" title="声母"></a>声母</h2><table>
 <thead>
 <tr>
@@ -154,7 +154,7 @@
     
     <entry>
       <title><![CDATA[上海话学习宝典]]></title>
-      <url>http://www.lonlone.xyz/language/shanghaihua/</url>
+      <url>http://kangbazi.top/language/shanghaihua/</url>
       <content type="html"><![CDATA[<h2 id="上海话声调"><a href="#上海话声调" class="headerlink" title="上海话声调"></a>上海话声调</h2><table>
 <thead>
 <tr>
@@ -347,7 +347,7 @@
     
     <entry>
       <title><![CDATA[Regular Expression]]></title>
-      <url>http://www.lonlone.xyz/technology/regularexpression/</url>
+      <url>http://kangbazi.top/technology/regularexpression/</url>
       <content type="html"><![CDATA[<ul>
 <li><span style="font-size:30px;margin:0 40%;">语法</span><h2 id="概念"><a href="#概念" class="headerlink" title="概念"></a>概念</h2>  正则表达式(regular expression)描述了一种字符串匹配的模式，可以用来检查一个串是否含有某种子串、将匹配的子串做替换或者从某个串中取出符合某个条件的子串等。<ul>
 <li>列目录时，　dir <em>.txt或ls </em>.txt中的<em>.txt就不是一个正则表达式,因为这里</em>与正则式的*的含义是不同的。</li>
@@ -369,7 +369,7 @@
     
     <entry>
       <title><![CDATA[Gone With The Wind]]></title>
-      <url>http://www.lonlone.xyz/literary/gonewithwind/</url>
+      <url>http://kangbazi.top/literary/gonewithwind/</url>
       <content type="html"><![CDATA[<p>RHETT: Let’s see, my losses for the afternoon come to what? Hmm…  three hundred and fourty. My debts do mount up, don’t they, Major? MAJOR: All right, Corporal. Show Captain Butler’s sister to his cell. RHETT: Thank you, Major…excuse me, gentlemen.<br>MAJOR: It’s hard to be strict with a man who loses money so  pleasantly.<br>(In the jail. Scarlett appears, dressing in beautiful green velvet.) SCARLETT: Rhett!<br>RHETT: Scarlett! My dear little sister. (to Corporal) It’s all right  Corporal, my sister has brought me now files or saws. Can I really  kiss you now?<br>SCARLETT: On the forehead like a good brother.<br><a id="more"></a><br>RHETT: No thanks, I’ll wait and hope for better things.<br>SCARLETT: Oh, Rhett, I was so distressed when I heard you were  in jail. I simply couldn’t sleep for thinking. It’s not true they’re going  to hang you.<br>RHETT: Would you be sorry? SCARLETT: Oh, Rhett…<br>RHETT: Well, don’t worry. Yeah, The Yankees have trumped up some charge against me but what they’re<br>really after is my money. They seem to think I made off with a Confederate treasury. SCARLETT: Well, did you?<br>RHETT: What a leading question. Let’s not talk about “sordid things like money. How good of you to come and see me. And how pretty you look.<br>SCARLETT: Oh, Rhett, how you do run on teasing a country girl like me.<br>RHETT: Thank Heaven’s you’re not in rags, I’m tired of seeing women in rags. Turn around. You look good enough to eat. Prosperous, too.<br>SCARLETT: Thank you, I’ve been doing very well.<br>Everybody’s doing well at Tara, only, I got so bored, I just thought I’d treat myself with to visit to town.<br>RHETT: You’re a heartless creature but that’s part of your charm. Though you’ve got more charm than the law allows.<br>SCARLETT: Now I did come here to talk senseless about me, Rhett. I came because I was so miserable at the thought of you in trouble. Oh, I know I was mad at you<br>the night you left me on the road to Tara, and I still haven’t </p>
 <p>forgiven you.<br>RHETT: Oh, Scarlett, don’t say that.<br>SCARLETT: Well, I must admit I might not be alive now. Only for<br>you. And when I think of myself with anything I could possibly hope  for, and not a care in the world, and you where here in this horrid jail.  And not even a human jail, Rhett, a horse jail. But listen to me, try to<br>make jokes when, when I really want to cry. And in a minute I shall  cry.<br>RHETT: Scarlett, can it be possible that…  SCARLETT: Can what be possible, Rhett?<br>RHETT: That you’ve grown a woman’s heart? A real woman’s heart. SCARLETT: I have Rhett. I know I have.<br>RHETT: You know it’s worth being in jail just to hear you say<br>that.It’s well worth it. (Rhett grasps Scarlett’s hands. And suddenly, he<br>reads the callous skin of her hands. This is a pair of hard-working  hands.)You can drop the moonlight and ‘’’magnolia, Scarlett. So  things have been going well at tara, have they?  SCARLETT: Yes…<br>RHETT: What have you been doing with your hands?<br>SCARLETT: It’s just that, I went riding last week without my  gloves…<br>RHETT: These don’t belong to a lady, you’ve been working with<br>them like a field hand. Why did you lie to me, and what are you really  up to?<br>SCARLETT: Now Rhett…<br>RHETT: In another minute, I’d almost believed you’d cared  something.<br>SCARLETT: But I do care!<br>RHETT: Suppose we get down to the truth. You want something<br>from me and you want it badly enough to put on quite a show on your  velvets. What is it, money?<br>SCARLETT: I want three hundred dollars to pay the taxes on Tara.<br>Oh Rhett, I did lie to you when I said everything was all right. Things  are just as bad as they possibly could be. And you’ve got millions,  Rhett.<br>RHETT: What collateral are you offering?  </p>
 <p>SCARLETT: My ear bobs…  RHETT: Not interested.<br>SCARLETT: Mortgage on Tara…<br>RHETT: What would I do with a farm?<br>SCARLETT: You wouldn’t lose, I’d pay you back after next year’s  cotton.<br>RHETT: Not good enough. Have you nothing better?<br>SCARLETT: You once said you loved me. If you still love me,  Rhett…<br>RHETT: You haven’t forgotten that I’m not a marrying man. SCARLETT: No. I haven’t forgotten,<br>RHETT: You’re not worth three hundred dollars. You’ll never mean  anything but misery to any man.<br>SCARLETT: Go on, insult me, I don’t care what you say, only give<br>me the money! I won’t let Tara go, I can’t let it go while there’s a  breath left in my body. Oh, Rhett, won’t you please give me the  money?<br>RHETT: I couldn’t give you the money if I wanted to. My funds are  in Liverpool, not in Atlanta. If I tried drawing a<br>draft, the Yankees would be on me like a duck on a junebug. So you  see my dear, you’ve abased yourself to no purpose. Stop it! You want  the Yankees to see like this?<br>SCARLETT: Take your hands off me, you dunk! You know what I am  going to say before I started. You knew you wouldn’t lend me the  money and yet, and yet, you let me go on.<br>RHETT: I enjoyed hearing what you had to say. Cheer up, you can  come to my hanging and I’ll remember you in my will.<br>SCARLETT: I’ll come to your hanging. The only thing I’m afraid of is  they won’t hang you in time to pay the taxes on Tara. Chapter<br>9Scarlett’s Second Marriage<br>(Scarlett leaves the jail in burning anger. But the visit of Scarlett and her new dress to Atlanta is not a complete “futility. She meets Frank Kennedy, Sue Ellen’s beau.) FRANK: Surely it can’t be Miss Scarlett! SCARLETT: Why, Frank Kennedy! FRANK: And Mammie…<br>MAMMIE: It sure is good to see home folks. FRANK: I didn’t know you were in Atlanta. SCARLETT: I didn’t know you were.<br>FRANK: Didn’t Miss Sue Ellen tell you about my store?  </p>
@@ -380,14 +380,14 @@
     
     <entry>
       <title><![CDATA[Configure memory of eclipse]]></title>
-      <url>http://www.lonlone.xyz/technology/configureeclipse/</url>
+      <url>http://kangbazi.top/technology/configureeclipse/</url>
       <content type="html"><![CDATA[<h1 id="配置eclipse-ini："><a href="#配置eclipse-ini：" class="headerlink" title="配置eclipse.ini："></a>配置eclipse.ini：</h1><p>-startup<br>plugins/org.eclipse.equinox.launcher_1.3.100.v20150511-1540.jar<br>–launcher.library<br>plugins/org.eclipse.equinox.launcher.win32.win32.x86_64_1.1.300.v20150602-1417<br>-product<br>org.eclipse.epp.package.jee.product<br>–launcher.defaultAction<br><a id="more"></a><br>openFile<br>–launcher.XXMaxPermSize<br>768M<br>-showsplash<br>org.eclipse.platform<br>–launcher.XXMaxPermSize<br>768m<br>–launcher.defaultAction<br>openFile<br>–launcher.appendVmargs<br>-vmargs<br>-Dosgi.requiredJavaVersion=1.7<br>-Xms2048m<br>-Xmx2048m<br>配置jdk default vm arguments:<br>-Xms768M -Xmx768M -XX:PermSize=768M -XX:MaxPermSize=768M<br>–配置Intellij IDEA<br>-server -XX:PermSize=128M -XX:MaxPermSize=256m</p>
 ]]></content>
     </entry>
     
     <entry>
       <title><![CDATA[箴言]]></title>
-      <url>http://www.lonlone.xyz/faith/proverbs/</url>
+      <url>http://kangbazi.top/faith/proverbs/</url>
       <content type="html"><![CDATA[<h2 id="箴言-1-章-箴言的价值"><a href="#箴言-1-章-箴言的价值" class="headerlink" title="箴言 1 章    箴言的价值"></a>箴言 1 章    箴言的价值</h2><h3 id="大卫的儿子，以色列王所罗门的箴言。"><a href="#大卫的儿子，以色列王所罗门的箴言。" class="headerlink" title="大卫的儿子，以色列王所罗门的箴言。"></a>大卫的儿子，以色列王所罗门的箴言。</h3><h3 id="这些箴言会使你认识智慧和训诲，明白格言深奥的含义。"><a href="#这些箴言会使你认识智慧和训诲，明白格言深奥的含义。" class="headerlink" title="这些箴言会使你认识智慧和训诲，明白格言深奥的含义。"></a>这些箴言会使你认识智慧和训诲，明白格言深奥的含义。</h3><h3 id="它们会教导你怎样过明智的生活，怎样作诚实、公正、正直的人。"><a href="#它们会教导你怎样过明智的生活，怎样作诚实、公正、正直的人。" class="headerlink" title="它们会教导你怎样过明智的生活，怎样作诚实、公正、正直的人。"></a>它们会教导你怎样过明智的生活，怎样作诚实、公正、正直的人。</h3><h3 id="它们会使无知的人精明，教导年轻人处事有方。"><a href="#它们会使无知的人精明，教导年轻人处事有方。" class="headerlink" title="它们会使无知的人精明，教导年轻人处事有方。"></a>它们会使无知的人精明，教导年轻人处事有方。</h3><h3 id="这些箴言也能使才智的人增长学问，使明达的人获得开导，"><a href="#这些箴言也能使才智的人增长学问，使明达的人获得开导，" class="headerlink" title="这些箴言也能使才智的人增长学问，使明达的人获得开导，"></a>这些箴言也能使才智的人增长学问，使明达的人获得开导，</h3><h3 id="明白箴言中的隐喻，以及明智的人所提出的问题。"><a href="#明白箴言中的隐喻，以及明智的人所提出的问题。" class="headerlink" title="明白箴言中的隐喻，以及明智的人所提出的问题。"></a>明白箴言中的隐喻，以及明智的人所提出的问题。</h3><a id="more"></a>
 <ul>
 <li>劝告年轻人<h3 id="敬畏上主是智慧的开端。愚蠢的人轻视智慧，也不愿意学习。"><a href="#敬畏上主是智慧的开端。愚蠢的人轻视智慧，也不愿意学习。" class="headerlink" title="敬畏上主是智慧的开端。愚蠢的人轻视智慧，也不愿意学习。"></a>敬畏上主是智慧的开端。愚蠢的人轻视智慧，也不愿意学习。</h3><h3 id="年轻人哪，要听从你父亲的训诲，不可忘记你母亲的教导。"><a href="#年轻人哪，要听从你父亲的训诲，不可忘记你母亲的教导。" class="headerlink" title="年轻人哪，要听从你父亲的训诲，不可忘记你母亲的教导。"></a>年轻人哪，要听从你父亲的训诲，不可忘记你母亲的教导。</h3><h3 id="他们的教导，像戴上华冠，更显出你的品格；像带上项练，使你更俊美。"><a href="#他们的教导，像戴上华冠，更显出你的品格；像带上项练，使你更俊美。" class="headerlink" title="他们的教导，像戴上华冠，更显出你的品格；像带上项练，使你更俊美。"></a>他们的教导，像戴上华冠，更显出你的品格；像带上项练，使你更俊美。</h3><h3 id="年轻人哪，如果坏人来勾引你，不要随从他们。"><a href="#年轻人哪，如果坏人来勾引你，不要随从他们。" class="headerlink" title="年轻人哪，如果坏人来勾引你，不要随从他们。"></a>年轻人哪，如果坏人来勾引你，不要随从他们。</h3><h3 id="如果他们说：“来吧，我们去杀人，找几个无辜的人打一顿，当作消遣；"><a href="#如果他们说：“来吧，我们去杀人，找几个无辜的人打一顿，当作消遣；" class="headerlink" title="如果他们说：“来吧，我们去杀人，找几个无辜的人打一顿，当作消遣；"></a>如果他们说：“来吧，我们去杀人，找几个无辜的人打一顿，当作消遣；</h3><h3 id="我们要像冥府把他们活生生地吞下，叫健康的人跌进深坑；"><a href="#我们要像冥府把他们活生生地吞下，叫健康的人跌进深坑；" class="headerlink" title="我们要像冥府把他们活生生地吞下，叫健康的人跌进深坑；"></a>我们要像冥府把他们活生生地吞下，叫健康的人跌进深坑；</h3><h3 id="我们会获得各种财物，屋里装满了抢来的东西。"><a href="#我们会获得各种财物，屋里装满了抢来的东西。" class="headerlink" title="我们会获得各种财物，屋里装满了抢来的东西。"></a>我们会获得各种财物，屋里装满了抢来的东西。</h3><h3 id="一起来干吧，让我们分享夺来的赃物。”"><a href="#一起来干吧，让我们分享夺来的赃物。”" class="headerlink" title="一起来干吧，让我们分享夺来的赃物。”"></a>一起来干吧，让我们分享夺来的赃物。”</h3><h3 id="年轻人哪，不要跟从这种人，要远远地避开他们。"><a href="#年轻人哪，不要跟从这种人，要远远地避开他们。" class="headerlink" title="年轻人哪，不要跟从这种人，要远远地避开他们。"></a>年轻人哪，不要跟从这种人，要远远地避开他们。</h3><h3 id="他们急着要做坏事，随时随地想杀人。"><a href="#他们急着要做坏事，随时随地想杀人。" class="headerlink" title="他们急着要做坏事，随时随地想杀人。"></a>他们急着要做坏事，随时随地想杀人。</h3><h3 id="鸟儿警戒着的时候，你想抓它是徒然的；"><a href="#鸟儿警戒着的时候，你想抓它是徒然的；" class="headerlink" title="鸟儿警戒着的时候，你想抓它是徒然的；"></a>鸟儿警戒着的时候，你想抓它是徒然的；</h3><h3 id="可是坏人正是为自己张下罗网，要害死自己。"><a href="#可是坏人正是为自己张下罗网，要害死自己。" class="headerlink" title="可是坏人正是为自己张下罗网，要害死自己。"></a>可是坏人正是为自己张下罗网，要害死自己。</h3><h3 id="打家劫舍的人往往自己丧命；以窃夺为生的人所遭遇的正是这样。"><a href="#打家劫舍的人往往自己丧命；以窃夺为生的人所遭遇的正是这样。" class="headerlink" title="打家劫舍的人往往自己丧命；以窃夺为生的人所遭遇的正是这样。"></a>打家劫舍的人往往自己丧命；以窃夺为生的人所遭遇的正是这样。</h3></li>
@@ -400,7 +400,7 @@
     
     <entry>
       <title><![CDATA[向死而生]]></title>
-      <url>http://www.lonlone.xyz/literary/beingtowardsdeath/</url>
+      <url>http://kangbazi.top/literary/beingtowardsdeath/</url>
       <content type="html"><![CDATA[<h3 id="死亡本体论的建构——向死而生"><a href="#死亡本体论的建构——向死而生" class="headerlink" title="死亡本体论的建构——向死而生"></a>死亡本体论的建构——向死而生</h3><p>作者：北野武（ビート たけし），日本殿堂级导演。</p>
 <ul>
 <li>意指明白了生与死的关系，因而能勇敢地面对死亡，积极地生活。<br>也可理解为：为绝望所生,为希望所遗弃<a id="more"></a>
@@ -412,7 +412,7 @@
     
     <entry>
       <title><![CDATA[4396,do you know?]]></title>
-      <url>http://www.lonlone.xyz/game/4396/</url>
+      <url>http://kangbazi.top/game/4396/</url>
       <content type="html"><![CDATA[<h3 id="EDG厂长4396是什么意思，浅谈LOL厂长表现。"><a href="#EDG厂长4396是什么意思，浅谈LOL厂长表现。" class="headerlink" title="EDG厂长4396是什么意思，浅谈LOL厂长表现。"></a>EDG厂长4396是什么意思，浅谈LOL厂长表现。</h3><pre><code>S6总决赛8强过后，火了一个名字，那就是--克烈儿4396
 </code></pre> <a id="more"></a>
 <p>   在LOLS6总决赛当中EDG厂长突然被加了一个4396的梗，那么这个4396究竟代表了什么？10月16日EDG和ROX的S6总决赛淘汰赛过后，无论是网上还是在看直播的时候都会看到一个神秘的数字——4396，那么这个4396究竟是什么意思是什么梗呢?网友为什么称厂长为4396呢?一起来看看吧。<br><img src="/resources/4396.png" alt="4396"><br>4396的意思很简单，就是在昨天EDG对战ROX的比赛中，厂长选择了瞎子，最后比赛结束的输出是4396，可以看到图中的数据，厂长的瞎子的伤害比辅助娜美的伤害仅仅高了100多，很多人借以这个数字来嘲讽厂长的瞎子，确实，厂长的几场比赛完全的没有作用。厂长有梦想，那么EDG的其他人就没梦想了吗?为什么下路那波GANK，厂长可以R闪带走辅助的，为什么就不会了呢?到底是在怕什么?一场比赛如果不允许说打的差的人，那对那些打的好的人又是什么样的伤害。<br>　　今天EDG输了，我毫无波动骑着电动车上街，对面过来一老年瞎子，当我跟它擦肩而过的时候，他一把就扶住了我的胳膊，慢慢地就往下躺，我心想完了。 过了二十秒，老年瞎子自个又站起来了，拍了拍身上的土。“孩子，刺不刺激，人生到处是惊喜。”说完就走了。英雄不问出处，演员不分岁数。<br>　　如果说昨天SKT完美演示了如何“掏出第二粒骰子”来对抗前期劣势，那么今天ROX就完美演示了如何“没收对方的第二粒骰子”——围绕自己前期获取优势的点，展开连绵不绝的攻势，不要被敌人战略性的转进拖住脚步。<br>　　第四场13M时，EDG曾有一波极为漂亮的战略转进，在击杀上单后连推两塔，一度使EDG将前期落后的2K经济完全追平。<br>EDG追平经济差，但对手没收了他们的骰子<br>　　但前期奥拉夫的个人优势实在太大，导致后期ROX敢明目张胆地放奥拉夫这条狂狗在上路越塔杀人，最大的崩溃一波也是奥拉夫先追死辅助，然后转中路配合ADC远程控制羊驼，越塔杀人，随后连破两塔，EDG最后一层外围防线崩溃，彻底失去对男爵争夺权，这场游戏基本就宣告GG了。<br>　　由此也带出了今天的热门话题：到底厂长是个什么样的打野?他应该退役吗?</p>
@@ -421,7 +421,7 @@
     
     <entry>
       <title><![CDATA[Gemini]]></title>
-      <url>http://www.lonlone.xyz/constellation/gemini/</url>
+      <url>http://kangbazi.top/constellation/gemini/</url>
       <content type="html"><![CDATA[<p><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="86" src="http://music.163.com/outchain/player?type=2&id=28566518&auto=0&height=66"></iframe><br> <ul align="center" style="font-size:20px;color:green;"><em>双子座之歌</em></ul></p>
 <ul>
 <li>双子座（Gemini），出生日期为5月21日~6月21日，是黄道十二宫里的第三宫，代表了多变、沟通。<a id="more"></a>
@@ -439,7 +439,7 @@
     
     <entry>
       <title><![CDATA[LeeQing]]></title>
-      <url>http://www.lonlone.xyz/game/leeqing/</url>
+      <url>http://kangbazi.top/game/leeqing/</url>
       <content type="html"><![CDATA[<h3 id="无敌是多么寂寞—致李青"><a href="#无敌是多么寂寞—致李青" class="headerlink" title="无敌是多么寂寞—致李青"></a>无敌是多么寂寞—致李青</h3><blockquote>
 <p>盲僧·李青是《英雄联盟》中的英雄角色。</p>
 </blockquote>
@@ -450,7 +450,7 @@
     
     <entry>
       <title><![CDATA[markdown]]></title>
-      <url>http://www.lonlone.xyz/technology/markdown/</url>
+      <url>http://kangbazi.top/technology/markdown/</url>
       <content type="html"><![CDATA[<blockquote>
 <p>Markdown 11种基本语法</p>
 </blockquote>
@@ -509,7 +509,7 @@
 </ul>
 <h4 id="链接（Links）"><a href="#链接（Links）" class="headerlink" title="链接（Links）"></a>链接（Links）</h4><p>Markdown中有两种方式，实现链接，分别为内联方式和引用方式。</p>
 <ul>
-<li>内联方式：This is an <a href="http://kangbazi.top/" target="_blank" rel="external">Kang Ba Zi</a>.</li>
+<li>内联方式：This is an <a href="http://kangbazi.top/">Kang Ba Zi</a>.</li>
 <li>引用方式：<br>I get 10 times more traffic from <a href="http://google.com/" title="Google" target="_blank" rel="external">Google</a> than from <a href="http://search.yahoo.com/" title="Yahoo Search" target="_blank" rel="external">Yahoo</a> or <a href="http://search.msn.com/" title="MSN Search" target="_blank" rel="external">MSN</a>.  </li>
 </ul>
 <h4 id="图片（Images）"><a href="#图片（Images）" class="headerlink" title="图片（Images）"></a>图片（Images）</h4><p>图片的处理方式和链接的处理方式，非常的类似。</p>
@@ -529,11 +529,11 @@
     
     <entry>
       <title><![CDATA[蓝瘦香菇]]></title>
-      <url>http://www.lonlone.xyz/emotion/sad/lanshouxianggu/</url>
+      <url>http://kangbazi.top/emotion/sad/lanshouxianggu/</url>
       <content type="html"><![CDATA[<p><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="http://music.163.com/outchain/player?type=2&id=434923115&auto=0&height=66"></iframe></p>
 <h3 id="蓝瘦香菇"><a href="#蓝瘦香菇" class="headerlink" title="蓝瘦香菇"></a>蓝瘦香菇</h3><a id="more"></a>
 <ul>
-<li>歌手:兴子<br><a href="http://kangbazi.top" target="_blank" rel="external">歌词出处</a></li>
+<li>歌手:兴子<br><a href="http://kangbazi.top">歌词出处</a></li>
 </ul>
 <p>词曲：李国兴</p>
 <p>蓝瘦 香菇 本来今天是高兴滴 </p>
@@ -564,7 +564,7 @@
     
     <entry>
       <title><![CDATA[My Hexo Blog]]></title>
-      <url>http://www.lonlone.xyz/technology/myhexorecord/</url>
+      <url>http://kangbazi.top/technology/myhexorecord/</url>
       <content type="html"><![CDATA[<h1 id="Hexo-and-GitHub"><a href="#Hexo-and-GitHub" class="headerlink" title="Hexo and GitHub"></a>Hexo and GitHub</h1><a id="more"></a>
 <ol>
 <li><p>Installation</p>
@@ -593,7 +593,7 @@
     
     <entry>
       <title><![CDATA[Heal the world]]></title>
-      <url>http://www.lonlone.xyz/music/healtheworld/</url>
+      <url>http://kangbazi.top/music/healtheworld/</url>
       <content type="html"><![CDATA[<p><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="http://music.163.com/outchain/player?type=2&id=1698413&auto=0&height=66"></iframe></p>
 <ul>
 <li>Heal the world</li>
@@ -667,7 +667,7 @@
     
     <entry>
       <title><![CDATA[Hello World]]></title>
-      <url>http://www.lonlone.xyz/technology/helloworld/</url>
+      <url>http://kangbazi.top/technology/helloworld/</url>
       <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a><br><a id="more"></a></p>
