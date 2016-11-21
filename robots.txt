@@ -9,5 +9,5 @@ Allow: /img
 Allow: /js
 Allow: /index.html
 Allow: /search.xml
-Sitemap: http://www.lonlone.xyz/sitemap.xml
-Sitemap: http://www.lonlone.xyz/baidusitemap.xml
+Sitemap: http://kangbazi/sitemap.xml
+Sitemap: http://kangbazi/baidusitemap.xml
