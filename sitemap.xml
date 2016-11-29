@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://kangbazi.top/about/index.html</loc>
+    
+    <lastmod>2016-11-29T09:39:44.603Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://kangbazi.top/404.html</loc>
     
     <lastmod>2016-11-21T04:42:19.637Z</lastmod>
@@ -19,13 +26,6 @@
     <loc>http://kangbazi.top/school/kangbazi/</loc>
     
     <lastmod>2016-11-21T01:59:54.563Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://kangbazi.top/about/index.html</loc>
-    
-    <lastmod>2016-11-21T01:57:50.076Z</lastmod>
     
   </url>
   
