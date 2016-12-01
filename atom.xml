@@ -150,7 +150,7 @@
     <link href="http://kangbazi.top/technology/ideatips/"/>
     <id>http://kangbazi.top/technology/ideatips/</id>
     <published>2016-12-01T07:43:43.000Z</published>
-    <updated>2016-12-01T08:03:58.956Z</updated>
+    <updated>2016-12-01T08:20:00.511Z</updated>
     
     <content type="html"><![CDATA[<p>Intellij IDEA中有很多快捷键让人爱不释手，stackoverflow上也有一些有趣的讨论。每个人都有自己的最爱，想排出个理想的榜单还真是困难。以前也整理过Intellij的快捷键，这次就按照我日常开发时的使用频率，简单分类列一下我最喜欢的十大快捷-神-键吧。<br>1 智能提示</p>
 <p>Intellij首当其冲的当然就是Intelligence智能！基本的代码提示用Ctrl+Space，还有更智能地按类型信息提示Ctrl+Shift+Space，但因为Intellij总是随着我们敲击而自动提示，所以很多时候都不会手动敲这两个快捷键(除非提示框消失了)。用F2/ Shift+F2移动到有错误的代码，Alt+Enter快速修复(即Eclipse中的Quick Fix功能)。当智能提示为我们自动补全方法名时，我们通常要自己补上行尾的反括号和分号，当括号嵌套很多层时会很麻烦，这时我们只需敲Ctrl+Shift+Enter就能自动补全末尾的字符。而且不只是括号，例如敲完if/for时也可以自动补上{}花括号。<br>最后要说一点，Intellij能够智能感知spring、hibernate等主流框架的配置文件和类，以静制动，在看似“静态”的外表下，智能地扫描理解你的项目是如何构造和配置的。<br><a id="more"></a><br>2 重构</p>
@@ -162,6 +162,11 @@
 <p>这榜单阵容太豪华了，后几名都是如此有用，毫不示弱。<br>Top #10切来切去：Ctrl+Tab<br>Top #9选你所想：Ctrl+W<br>Top #8代码生成：Template/Postfix +Tab<br>Top #7发号施令：Ctrl+Shift+A<br>Top #6无处藏身：Shift+Shift<br>Top #5自动完成：Ctrl+Shift+Enter<br>Top #4创造万物：Alt+Insert<br>太难割舍，前三名并列吧！<br>Top #1智能补全：Ctrl+Shift+Space<br>Top #1自我修复：Alt+Enter<br>Top #1重构一切：Ctrl+Shift+Alt+T</p>
 <p>在Intellij IDEA中修改模板中user变量名称</p>
 <p>在Intellij IDEA中的注释模板中的${user}名称是根据当前操作系统的登录名来取的，有时候登录名称和我们实际的user名称并不相同。<br>修改方法如下：<br>方法一：可以在settings的file and code template中进行修改。但是这个只能修改指定的模板。<br>方法二：在IDE启动的时候，重写user的变量名称。<br>找到IDE的安装目录/bin下面的idea.exe.vmoptions 和idea64.exe.vmoptions这两个文件，在里面添加<br>-Duser.name=huqiwen（在些修改为自己想要的名称）<br>然后重启IDEA。</p>
+<ul>
+<li>intellij-postfix<br>Features<br>Available templates:</li>
+</ul>
+<p>.if – checks boolean expression to be true if (expr)<br>.else – checks boolean expression to be false if (!expr)<br>.var – initialize new variable with expression T name = expr;<br>.null – checks nullable expression to be null if (expr == null)<br>.notnull – checks expression to be non-null if (expr != null)<br>.instanceof – checks type expr instanceof T ? ((T) expr).m : null<br>.not – negates value of inner boolean expression !expr<br>.for – iterates over collection for (T item : collection)<br>.while – uses expression as loop condition while (expr)<br>.arg – helps surround argument with invocation method(expr)<br>.cast – surrounds expression with cast (SomeType) expr<br>.new – produces instantiation expression for type new T()<br>.fori – surrounds with loop for (int i = 0; i &lt; expr.length; i++)<br>.forr – reverse loop for (int i = expr.length - 1; i &gt;= 0; i–)<br>.field – introduces field for expression _field = expr;<br>.par – surrounds outer expression with parentheses (expr)<br>.return – returns value from containing method return expr;<br>.switch – switch over integral/enum/string values switch (expr)<br>.throw – throws exception of ‘Throwable’ type throw new Exception();<br>.assert - creates assertion from boolean expression assert expr;<br>.synchronized – produces synchronized block synchronized (expr)</p>
+<p>Other features:<br>Template expansion by Tab key in editor (like live templates)<br>Settings page to disable/enable particular postfix templates</p>
 ]]></content>
     
     <summary type="html">
