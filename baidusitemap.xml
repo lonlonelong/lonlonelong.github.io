@@ -4,6 +4,26 @@
 
     
   <url>
+    <loc>http://kangbazi.top/school/learningattitude/</loc>
+    <lastmod>2016-12-16T07:09:45.670Z</lastmod>
+    <data>
+        <display>
+        <title>学习态度</title>
+        <pubTime>2016-12-16T06:43:15.000Z</pubTime>
+        
+        <tag>learning</tag>
+         
+         
+           
+             
+              <breadCrumb title="school" url="http://kangbazi.top/categories/school/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://kangbazi.top/school/topefficiency/</loc>
     <lastmod>2016-12-16T07:04:20.190Z</lastmod>
     <data>
@@ -92,26 +112,6 @@
         <pubTime>2016-12-16T06:46:33.000Z</pubTime>
         
         <tag>learningplan</tag>
-         
-         
-           
-             
-              <breadCrumb title="school" url="http://kangbazi.top/categories/school/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://kangbazi.top/school/learningattitude/</loc>
-    <lastmod>2016-12-16T06:45:59.153Z</lastmod>
-    <data>
-        <display>
-        <title>learningattitude</title>
-        <pubTime>2016-12-16T06:43:15.000Z</pubTime>
-        
-        <tag>learning</tag>
          
          
            
